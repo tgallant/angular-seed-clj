@@ -1,0 +1,13 @@
+/target
+/lib
+/classes
+/checkouts
+node_modules
+bower_components
+pom.xml
+pom.xml.asc
+.DS_Store
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
